@@ -45,7 +45,7 @@ public class CheckoutTest extends Intializer {
 		PlaceOrder.clickGst();
 		PlaceOrder.clickOrder();
 		PlaceOrder.clickLogout();
-		log=reports.startTest(tcname+"----completed");
+		log=reports.startTest(tcname+"----competed");
 
 		
 		
