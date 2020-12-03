@@ -1,5 +1,11 @@
 package com.vcentry.onlineshop.initializer;
 
-public class NewTest {
+import org.openqa.selenium.firefox.FirefoxDriver;
 
+public class NewTest extends Intializer {
+
+	public static void testNew(){
+		wd=new FirefoxDriver();
+	}
+	
 }
