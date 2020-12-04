@@ -1,0 +1,11 @@
+com\vcentry\onlineshop\report\Screenshotgenerator.class
+com\vcentry\onlineshop\initializer\NewMobilFeature.class
+com\vcentry\onlineshop\initializer\NewMobileFeature.class
+com\vcentry\onlineshop\initializer\Precondition.class
+com\vcentry\onlineshop\inputreader\InputReader.class
+com\vcentry\onlineshop\report\ReportOptimizer.class
+com\vcentry\onlineshop\pages\LoginPage.class
+com\vcentry\onlineshop\testcases\CheckoutTest.class
+com\vcentry\onlineshop\initializer\Intializer.class
+com\vcentry\onlineshop\pages\PlaceOrder.class
+com\vcentry\onlineshop\initializer\NewTestCase.class
